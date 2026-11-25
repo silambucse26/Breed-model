@@ -1,0 +1,22 @@
+filename,ground_truth,category,breed_characteristics
+breed_gir_01.jpg,GIR,Breed_Classification,"Typical Gir cow profile with prominent convex forehead, curled pendulous ears, and backward curved horns"
+breed_gir_02.jpg,GIR,Breed_Classification,"Gir cow with distinctive leaf-like drooping ears, broad dome head and hump"
+breed_gir_03.jpg,GIR,Breed_Classification,Gir bull standing in pen showing massive hump and pendulous ear conformation
+breed_gir_04.jpeg,GIR,Breed_Classification,Red and white speckled Gir cow showing pendulous ears and zebu hump
+breed_sahiwal_01.jpg,SAHIWAL,Breed_Classification,"Reddish-dun Sahiwal dairy cow with loose voluminous dewlap, medium hump, docile head"
+breed_sahiwal_02.jpg,SAHIWAL,Breed_Classification,Pure brown Sahiwal cow showing typical pendulous dewlap and straight dorsal profile
+breed_sahiwal_03.webp,SAHIWAL,Breed_Classification,Sahiwal cow standing in rural pen showing characteristic loose skin and naval flap
+breed_sahiwal_04.jpg,SAHIWAL,Breed_Classification,"Sahiwal cow full side profile with well-developed udder, prominent dewlap, and short horns"
+breed_hf_01.jpeg,HOLSTEIN_FRIESIAN,Breed_Classification,Classic piebald black and white Holstein-Friesian dairy cow side profile
+breed_hf_02.jpg,HOLSTEIN_FRIESIAN,Breed_Classification,"High-yielding HF dairy cow showing large frame, flat backline, no hump"
+breed_hf_03.jpg,HOLSTEIN_FRIESIAN,Breed_Classification,Black and white HF cow standing in modern commercial dairy stall
+breed_hf_04.jpeg,HOLSTEIN_FRIESIAN,Breed_Classification,Holstein dairy cow head and torso profile showing characteristic facial markings
+breed_jersey_01.webp,JERSEY,Breed_Classification,Classic fawn Jersey cow with dark muzzle encircled by distinct white ring and dished forehead
+breed_jersey_02.jpg,JERSEY,Breed_Classification,Light tan Jersey cow grazing on pasture with small compact body frame
+breed_jersey_03.jpeg,JERSEY,Breed_Classification,"Jersey cow head/front view with alert dark eyes, dished face, and pale muzzle ring"
+breed_jersey_04.jpeg,JERSEY,Breed_Classification,Brown Jersey dairy cow on pasture showing prominent milk vein and lack of hump
+breed_murrah_01.jpeg,MURRAH_BUFFALO,Breed_Classification,Jet-black Murrah dairy buffalo showing tightly curved spiral horns and massive barrel body
+breed_murrah_02.jpg,MURRAH_BUFFALO,Breed_Classification,Murrah buffalo cow standing in barn showing characteristic curled horns and dark skin
+breed_murrah_03.jpg,MURRAH_BUFFALO,Breed_Classification,"Murrah buffalo profile displaying deep rib cage, wedge conformation, and curled horns"
+breed_murrah_04.jpeg,MURRAH_BUFFALO,Breed_Classification,Side profile of prime Murrah buffalo cow showing jet-black pigmentation and spiral horns
+breed_brown_swiss_01.jpg,BROWN_SWISS,Breed_Classification,Classic solid grey-brown Brown Swiss dairy cow with creamy muzzle ring
